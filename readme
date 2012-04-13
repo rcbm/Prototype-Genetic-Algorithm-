@@ -1,0 +1,1 @@
+I wrote this as a test of using Ruby in 2008. The goal was to write a proof of concept GA whose 'genotype' could be used to control a MaxMSP patch. 
